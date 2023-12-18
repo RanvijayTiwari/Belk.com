@@ -1,6 +1,6 @@
 # silky-toothbrush-7443
 
-# [Fashion Factory ](https://dancing-gingersnap-77a4c6.netlify.app/)
+# [Fashion Factory ]
 
 - Clone of [1-800 clothes](https://www.belk.com/)
 
@@ -16,7 +16,7 @@ A team of four people created this project over the course of five days.
 
 
 ### Netlify Link
-(https://symphonious-torrone-c03bf0.netlify.app/)
+(https://dancing-gingersnap-77a4c6.netlify.app/)
 
 ### Description
 The Belk is a E-commerce website of wearing and clothing delivery. It includes various categories and brands according to the needs of customers.
