@@ -1,6 +1,6 @@
 # silky-toothbrush-7443
 
-# [Fashion Factory ](https://symphonious-torrone-c03bf0.netlify.app/)
+# [Fashion Factory ](https://dancing-gingersnap-77a4c6.netlify.app/)
 
 - Clone of [1-800 clothes](https://www.belk.com/)
 
